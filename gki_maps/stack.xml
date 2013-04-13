@@ -1,0 +1,8 @@
+<stack>
+  <description brief="gki_maps">The gki_maps stack contains maps recorded and used by the robots. </description>
+  <author>Christian Dornhege</author>
+  <license>BSD,MIT</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gki_maps</url>
+
+</stack>
