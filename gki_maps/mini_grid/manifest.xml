@@ -1,0 +1,14 @@
+<package>
+  <description brief="mini_grid">
+
+     mini_grid
+
+  </description>
+  <author>turtle</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/mini_grid</url>
+
+</package>
+
+
