@@ -1,0 +1,14 @@
+<package>
+  <description brief="sokoban_rcr_140513">
+
+     sokoban_rcr_140513
+
+  </description>
+  <author>turtle</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sokoban_rcr_140513</url>
+
+</package>
+
+
